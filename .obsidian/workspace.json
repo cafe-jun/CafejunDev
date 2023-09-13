@@ -11,8 +11,10 @@
             "id": "2e26249d3f9a78a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Salin-Project/아바타 스튜디오"
+              }
             }
           }
         ]
@@ -60,8 +62,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "eb0200900d2e8744",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -125,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -139,5 +150,27 @@
     }
   },
   "active": "2e26249d3f9a78a7",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Salin-Project/아바타 스튜디오/아바타 스튜디오.md",
+    "Salin-Project/아바타 스튜디오/1. 프로젝트 목적.md",
+    "Salin-Project/경북 메타포트 /Client 소켓 연결 이슈.md",
+    "무제 파일.canvas",
+    "Daily/2023-09-13.md",
+    "AWS Developer/CloudFormation/EC2.md",
+    "AWS Developer/CloudFormation",
+    "AWS Developer/CloudFront",
+    "AWS Developer/CloudFront/AWS Developer.md",
+    "Salin-Project/Salin-Project.md",
+    "Salin-Project/경북 메타포트 /.md",
+    "AWS Developer/EC2/EC2.md",
+    "AWS Developer/EC2",
+    "Salin-Project/경북 메타포트 ",
+    "Salin-Project/아바타 스튜디오",
+    "상무님 메일 전달.md",
+    "Daily",
+    "Salin-Project",
+    "AWS Developer",
+    "Context/spacesLastSync.log",
+    "Context"
+  ]
 }
